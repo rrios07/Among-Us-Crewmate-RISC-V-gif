@@ -33,7 +33,7 @@
 .type main, @function
 main:
 
-#addresses: addr = 0x11100000 color = 0x11140000 NEED TO CHANGE TO THESE BEFORE USING WITH OTTER!!!
+#addresses: addr = 0x11100000 color = 0x11140000 
 
 li t1, 0x4F #to check if we have done all columns in a given row
 li t2, 0x11100000 #MMIO address for pixel block
