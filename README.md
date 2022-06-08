@@ -8,4 +8,4 @@ A link to a demo of the GIF running on the VGA display via the OTTER can be foun
 
 The GIF used for the animation can be found here: https://www.gifcen.com/among-us-2/
 
-Thank you for checking out the Among Us Crewmate RISC-V GIF!
+Thank you for checking out the Among Us Crewmate RISC-V GIF for use with the OTTER!
