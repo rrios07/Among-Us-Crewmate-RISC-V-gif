@@ -4,6 +4,8 @@ All frame data and assembly code can be found in the ".s" file provided in this 
 
 Frame data processing was done using a tool created by Trevor McKay which can be found in his repository, trmckay/riscv-kernel-convolution in the image_assmblr folder (https://github.com/trmckay/riscv-kernel-convolution/tree/master/image_assmblr)!
 
+A link to a demo of the GIF running on the VGA display via the OTTER can be found here: https://www.youtube.com/shorts/ZL4vtLfvV5I
+
 The GIF used for the animation can be found here: https://www.gifcen.com/among-us-2/
 
 Thank you for checking out the Among Us Crewmate RISC-V GIF!
